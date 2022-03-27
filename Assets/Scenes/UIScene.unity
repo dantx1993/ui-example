@@ -2175,7 +2175,7 @@ MonoBehaviour:
   _chooseAvatarPopup: {fileID: 1896185709}
   _createAndEditGuildPopup: {fileID: 346441674}
   _listGuildPopup: {fileID: 1557544218}
-  _messagePopup: {fileID: 0}
+  _messagePopup: {fileID: 1863654160}
 --- !u!1 &779981775
 GameObject:
   m_ObjectHideFlags: 0
